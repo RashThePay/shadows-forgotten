@@ -1,0 +1,15 @@
+{
+  "title": "Shadows Forgotten",
+  "id": "shadows-forgotten",
+  "system": "dnd5e",
+  "background": "photo_2024-10-02_16-58-34.jpg",
+  "joinTheme": "minimal",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.0.4",
+  "lastPlayed": "Sat Oct 05 2024 09:46:54 GMT+0330 (Iran Standard Time)",
+  "playtime": 121531
+}
